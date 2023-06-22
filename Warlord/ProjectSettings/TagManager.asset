@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Field
-  - Squire
-  - Husar
-  - Warlord
+  tags: []
   layers:
   - Default
   - TransparentFX
